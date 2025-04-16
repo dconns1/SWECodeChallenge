@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 16 Apr 2025 06:19:13 +0000
+Source: swe-code-challenge
+Binary: swe-code-challenge
+Architecture: source all
+Version: 0.0-0
+Distribution: stable
+Urgency: high
+Maintainer: dconns1@outlook.com
+Description:
+ swe-code-challenge - My version of the code challenge provided by Security Innovation
+Changes:
+ swe-code-challenge (0.0-0) stable; urgency=high
+ .
+   * Initial release.
+ .
+   -- Devon Connors <dconns1@outlook.com>  Wed, 16 Apr 2025 2:35:00 +0000
+Checksums-Sha1:
+ 759130faaec29a703a76a7f9577d68ffab80d0e1 913 swe-code-challenge_0.0-0.dsc
+ 8c1857dde503bb07c53eac01effd61776f9361b6 21064 swe-code-challenge_0.0.orig.tar.gz
+ d9509b1cc59daaabb1377f278187632d140de628 1448 swe-code-challenge_0.0-0.debian.tar.xz
+ 3cbaeaf476dbaad08710161b63d42679c847b90e 10868 swe-code-challenge_0.0-0_all.deb
+ 9da4f45a5c966f22e18373f732d5c2bcc0f4b1dc 5652 swe-code-challenge_0.0-0_amd64.buildinfo
+Checksums-Sha256:
+ 5bfede09559cc8a09fe2e891d6698569098d7a3e9b1d886e16354c14dc9063bf 913 swe-code-challenge_0.0-0.dsc
+ 618b806fe91f118a0ef080be7b14978094b7fc10433103c99dbb6c7a6f9fb185 21064 swe-code-challenge_0.0.orig.tar.gz
+ d90c521cd46e97023c7d5e559b52c7b200fe5513d7453967c40db260539a9e72 1448 swe-code-challenge_0.0-0.debian.tar.xz
+ efca4b30f431bf208bf7785225a1f8463cd4cd83d5b2cc456ebcb09a59cd5c5b 10868 swe-code-challenge_0.0-0_all.deb
+ da0b9dd37cdea5111304f6ceb195f58b2bbe161f82116635c246ea50aeea83a1 5652 swe-code-challenge_0.0-0_amd64.buildinfo
+Files:
+ 0aaea0202a3987887de572c9401fd0f9 913 python - swe-code-challenge_0.0-0.dsc
+ 04a37977eedfb7bf38ad7970b15391b6 21064 python - swe-code-challenge_0.0.orig.tar.gz
+ e7b9ce205cf6b9ff6b874ed0a0343edd 1448 python - swe-code-challenge_0.0-0.debian.tar.xz
+ a7e2f4f7b5916275ed07487b0138deb5 10868 python - swe-code-challenge_0.0-0_all.deb
+ e66e58c99f188aa1741c15cb96e11d58 5652 python - swe-code-challenge_0.0-0_amd64.buildinfo

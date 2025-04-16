@@ -1,0 +1,11 @@
+Source: swe-code-challenge
+Section: python
+Maintainer: dconns1@outlook.com
+Build-Depends: debhelper (>= 11), dh-python, python3
+Standards-Version: 4.1.5
+Homepage: https://github.com/dconns1/SWECodeChallenge
+
+Package: swe-code-challenge
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: My version of the code challenge provided by Security Innovation for the role of Software Engineer II

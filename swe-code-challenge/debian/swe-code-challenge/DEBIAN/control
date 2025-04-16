@@ -1,0 +1,9 @@
+Package: swe-code-challenge
+Version: 0.0-0
+Architecture: all
+Maintainer: dconns1@outlook.com
+Installed-Size: 68
+Depends: python3:any
+Section: python
+Homepage: https://github.com/dconns1/SWECodeChallenge
+Description: My version of the code challenge provided by Security Innovation for the role of Software Engineer II

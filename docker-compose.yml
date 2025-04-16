@@ -1,0 +1,11 @@
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    container_name: "SWE-II-Code-Challenge"
+    working_dir: /var/SWE
+    restart: unless-stopped
+    tty: true
+    volumes:
+      - ".:/var/SWE"
